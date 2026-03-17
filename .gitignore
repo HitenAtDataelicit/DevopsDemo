@@ -66,5 +66,3 @@ venv/
 **/__pycache__/
 *.pyc
 
-# datasets
-DLP model/promptprotect/datasets/
